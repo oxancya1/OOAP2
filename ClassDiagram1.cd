@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab_2.Client">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAQAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2.GoldJewelry">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABIAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GoldJewelry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2.GoldJewelryFactory">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAAAAAAABAAAAAAAAAAAAIAAAAAEAAAAAA=</HashCode>
+      <FileName>GoldJewelryFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2.Jewelry">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jewelry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2.JewelryFactory">
+    <Position X="12.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAAAAAAABAAAAAAAAAAAAIAAAAAEAAAAAA=</HashCode>
+      <FileName>JewelryFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2.Program">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2.SilverJewelry">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABIAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SilverJewelry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2.SilverJewelryFactory">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAAAAAAABAAAAAAAAAAAAIAAAAAEAAAAAA=</HashCode>
+      <FileName>SilverJewelryFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
